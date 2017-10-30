@@ -14,7 +14,7 @@ layout : post
 
 ---
 
-*2012 - Present* : BSc. in Computer Science at the University of St Andrews.
+*2012 - 2016* : BSc. in Computer Science at the University of St Andrews.
 
 *2007 - 2012* : Norwich School
 
@@ -22,7 +22,7 @@ layout : post
 
 ---
 
-*August 2016 - present* : Bloomberg - .Net developer
+*August 2016 - October 2017* : Bloomberg - .Net developer
 
 *August 2015* : [Fire Tech](http://www.firetechcamp.com/) - Instructor
 
